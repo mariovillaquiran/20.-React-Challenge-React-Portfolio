@@ -1,8 +1,4 @@
 function Homepage() {
-  return (
-    <div>
-      <header>MARIO VILLAQUIRAN</header>
-    </div>
-  );
+  return <div></div>;
 }
 export default Homepage;

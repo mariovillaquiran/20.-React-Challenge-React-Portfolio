@@ -3,9 +3,12 @@ function AboutMe() {
     <div>
       <h1>ABOUT ME</h1>
       <h4>
-        Mario is a Full-Stack Developer + Technical PM based in NYC. He has
-        recently completed the Engineering Coding Boot Camp at Columbia and has
-        demonstrated a passion for UX/UI + Front-End Development.
+        Mario has successfully mastered project management working with several
+        companies, from e-commerce to digital advertising. He is detail
+        oriented, persevering, and professional - has led various teams over the
+        past 6 years to success with effective and efficient processes. Mario
+        graduated in 2016 from New York Institute of Technology with a B.S in
+        Advertising, focusing on digital and print design.
       </h4>
     </div>
   );
